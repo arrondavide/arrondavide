@@ -8,7 +8,7 @@
 
 I'm a **dev who breaks things to make them better**! Built **ERP systems**, trained **AI models**, and made **games people actually play**. Love **pushing buttons** (sometimes code-related) and making cool stuff.
 
-🌍 **Based in Dubai, but my code travels everywhere**  
+  
 📫 **Hit me up:** [Email](mailto:charlesaaron577@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aaron-david-4a3156170)
 
 ---
@@ -25,12 +25,10 @@ I'm a **dev who breaks things to make them better**! Built **ERP systems**, trai
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arrondavide&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arrondavide&theme=tokyonight&hide_border=true" />
-</p>
-<p align="left">
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrondavide&layout=compact&theme=dark&hide_border=true" />
- </a>
+<!--   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arrondavide&theme=tokyonight&hide_border=true" /> -->
 </p>
+
 <!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arrondavide&bg_color=0d1117&color=ffffff&line=0f6d31&point=ffc837&area=true&hide_border=true) -->
 
 
