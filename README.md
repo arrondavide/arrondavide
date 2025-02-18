@@ -24,7 +24,7 @@ I'm a **dev who breaks things to make them better**! Built **ERP systems**, trai
 ## **📊 GitHub Stats & Interactive Goodies**
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arrondavide&show_icons=true&theme=tokyonight&hide_border=true" />
+<!--   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arrondavide&show_icons=true&theme=tokyonight&hide_border=true" /> -->
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrondavide&layout=compact&theme=dark&hide_border=true" />
 <!--   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arrondavide&theme=tokyonight&hide_border=true" /> -->
 </p>
