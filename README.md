@@ -27,7 +27,7 @@ I'm a **dev who breaks things to make them better**! Built **ERP systems**, trai
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arrondavide&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arrondavide&theme=tokyonight&hide_border=true" />
 </p>
-
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arrondavide&layout=compact&theme=github_dark)](https://github.com/arrondavide/github-readme-stats)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arrondavide&bg_color=0d1117&color=ffffff&line=0f6d31&point=ffc837&area=true&hide_border=true)
 
 ### **🐍 Watch My Contributions Slither Around**
