@@ -15,10 +15,10 @@ I'm a **dev who breaks things to make them better**! Built **ERP systems**, trai
 
 ## **🔥 What I Do (Besides Debugging)**
 
-🎮 **Game Dev & Web3 Shenanigans** @ [Nine Hermits Studios](https://ninehermits.com)  
+🎮 **Game Dev & Web3 Shenanigans** 
 🚀 Built **ERP Systems** & **ML-powered apps**  
 💻 Code in **JavaScript, Python, Flutter, React, Unity & Unreal**  
-🛠️ **Databases, DevOps, Agile stuff, and a touch of magic**  
+🛠️ **Databases,  Agile stuff, and a touch of magic**  
 
 
 ## **📊 GitHub Stats & Interactive Goodies**
