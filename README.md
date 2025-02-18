@@ -1,6 +1,6 @@
 
 
-# 🚀 Charles Aaron | Software Engineer | Game Dev | AI Explorer
+# 🚀 Charles Aaron David| Software Engineer | Game Dev | AI Explorer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arrondavide&label=Profile%20views&color=0e75b6&style=flat)
 
