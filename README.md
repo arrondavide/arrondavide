@@ -28,11 +28,10 @@ I'm a **dev who breaks things to make them better**! Built **ERP systems**, trai
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arrondavide&theme=tokyonight&hide_border=true" />
 </p>
 <p align="left">
-  <a href="https://dthiwanka.github.io">
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arrondavide&layout=compact&theme=dark&hide_border=true" />
  </a>
 </p>
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arrondavide&bg_color=0d1117&color=ffffff&line=0f6d31&point=ffc837&area=true&hide_border=true)
+<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arrondavide&bg_color=0d1117&color=ffffff&line=0f6d31&point=ffc837&area=true&hide_border=true) -->
 
 
 
